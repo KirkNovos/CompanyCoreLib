@@ -18,7 +18,7 @@ namespace CompanyCoreLib
                 Counter = 1;
             }
         }
-
+        //ЗАШЕЛ В СВОЙ ГИТХАБ
         public List<DateTime> PopularMonths(List<DateTime> dates)
         {
             var DateTimeWithCounterList = new List<Tuple<DateTime, int>>();
